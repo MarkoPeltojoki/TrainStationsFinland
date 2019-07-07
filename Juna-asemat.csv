@@ -1,0 +1,485 @@
+stationName;stationShortCode;stationUICCode;stationFrom;stationTo
+Ahonpää;AHO;1343;Ahonpäästä;Ahonpäähän
+Ahvenus;AHV;1000;Ahvenuksesta;Ahvenukseen
+Ainola;AIN;628;Ainolasta;Ainolaan
+Airaksela;ARL;869;Airakselasta;Airakselaan
+Aittaluoto;ATL;676;Aittaluodosta;Aittaluotoon
+Ajos;AJO;767;Ajoksesta;Ajokseen
+Alapitkä;APT;415;Alapitkästä;Alapitkään
+Alavus;ALV;284;Alavuksesta;Alavukselle
+Alholma;ALH;308;Alholmasta;Alholmaan
+Arola;ARO;939;Arolasta;Arolaan
+Asola;ASO;1340;Asolasta;Asolaan
+Aviapolis;AVP;1331;Aviapoliksesta;Aviapolikseen
+Dragsvik;DRA;167;Dragsvikista;Dragsvikiin
+Elijärvi;ELI;828;Elijärveltä;Elijärvelle
+Eläinpuisto-Zoo;EPZ;623;Eläinpuisto-Zoosta;Eläinpuisto-Zoohon
+Eno;ENO;464;Enosta;Enoon
+Ervelä;ERV;1004;Ervelästä;Ervelään
+Eskola;ELA;318;Eskolasta;Eskolaan
+Espoo;EPO;66;Espoosta;Espooseen
+Haapajärvi;HPJ;330;Haapajärveltä;Haapajärvelle
+Haapakoski;HPS;402;Haapakoskelta;Haapakoskelle
+Haapamäki;HPK;200;Haapamäeltä;Haapamäkeen
+Haaparanta;HPA;1408;Haaparannasta;Haaparantaan
+Haarajoki;HAA;13;Haarajoelta;Haarajoelle
+Hakosilta;HLT;1014;Hakosillalta;Hakosillalle
+Haksi;HSI;1015;Haksista;Haksiin
+Hamina;HMA;527;Haminasta;Haminaan
+Hammaslahti;HSL;451;Hammaslahdesta;Hammaslahteen
+Hanala;HNA;1018;Hanalasta;Hanalaan
+Hangonsaari;HGS;1020;Hangonsaaresta;Hangonsaareen
+Hankasalmi;HKS;427;Hankasalmelta;Hankasalmeen
+Hanko asema;HNK;73;Hangosta;Hankoon
+Hanko tavara;HNKT;1317;Hanko tavarasta;Hanko tavaraan
+Hanko-Pohjoinen;HKP;879;Hanko-Pohjoisesta;Hanko-Pohjoiseen
+Harjavalta;HVA;218;Harjavallasta;Harjavaltaan
+Harju;HJ;985;Harjusta;Harjuun
+Harviala;HRV;622;Harvialasta;Harvialaan
+Haukipudas;HD;342;Haukiputaalta;Haukiputaalle
+Haukivuori;HAU;549;Haukivuoresta;Haukivuoreen
+Hausjärvi tavara;HAS;340;Hausjärvi tavarasta;Hausjärvi tavaraan
+Haviseva;HVS;1021;Havisevasta;Havisevaan
+Havukoski;HVK;1334;Havukoskelta;Havukoskelle
+Heikkilä;HEK;1023;Heikkilästä;Heikkilään
+Heinola;HA;113;Heinolasta;Heinolaan
+Heinoo;HNO;1025;Heinoosta;Heinoon
+Heinävaara;HÄV;924;Heinävaaralta;Heinävaaraan
+Heinävesi;HNV;437;Heinävedeltä;Heinävedelle
+Helsinki asema;HKI;1;Helsingistä;Helsinkiin
+Helsinki Kivihaka;KHK;1028;Helsinki Kivihaasta;Helsinki Kivihakaan
+Henna;HNN;1164;Hennasta;Hennaan
+Herrala;HR;96;Herralasta;Herralaan
+Hiekkaharju;HKH;556;Hiekkaharjulta;Hiekkaharjuun
+Hiirola;HIR;997;Hiirolasta;Hiirolaan
+Hikiä;HK;91;Hikiältä;Hikiään
+Hillosensalmi;HLS;988;Hillosalmesta;Hillosalmeen
+Hinthaara;HH;561;Hinthaarasta;Hinthaaraan
+Hirvineva;HVN;1041;Hirvinevalta;Hirvinevalle
+Humppila;HP;144;Humppilasta;Humppilaan
+Huopalahti;HPL;72;Huopalahdesta;Huopalahdelle
+Huutokoski;HKO;430;Huutokoskelta;Huutokoskelle
+Hyrynsalmi;HYS;392;Hyrynsalmelta;Hyrynsalmelle
+Hyvinkää;HY;30;Hyvinkäältä;Hyvinkäälle
+Hämeenlinna;HL;47;Hämeenlinnasta;Hämeenlinnaan
+Härmä;HM;300;Härmästä;Härmään
+Höljäkkä;HÖL;938;Höljäkästä;Höljäkkään
+Iisalmi;ILM;420;Iisalmelta;Iisalmeen
+Iittala;ITA;154;Iittalasta;Iittalaan
+Ilmala asema;ILA;9;Ilmalasta;Ilmalaan
+Ilmala ratapiha;ILR;1030;Ilmala ratapihalta;Ilmala ratapihalle
+Ilomantsi;ILO;459;Ilomantsista;Ilomantsille
+Imatra asema;IMR;603;Imatralta;Imatralle
+Imatra tavara;IMT;502;Imatra tavarasta;Imatra tavaraan
+Imatrankoski;IMK;504;Imatrankoskelta;Imatrankoskelle
+Imatrankoski-raja;IMKR;503;Imatrankoski-rajalta;Imatrankoski-rajalle
+Inkeroinen;IKR;530;Inkeroisista;Inkeroisiin
+Inkoo;IKO;62;Inkoosta;Inkooseen
+Isokyrö;IKY;295;Isokyröstä;Isokyröön
+Jalasjärvi;JAL;276;Jalasjärveltä;Jalasjärvelle
+Jepua;JPA;303;Jepuasta;Jepuaan
+Joensuu asema;JNS;460;Joensuusta;Joensuuhun
+Joensuu Peltola;PLT;1070;Joensuu Peltolasta;Joensuu Peltolaan
+Joensuu Sulkulahti;SUL;1071;Joensuu Sulkulahdesta;Joensuu Sulkulahteen
+Jokela;JK;28;Jokelasta;Jokelaan
+Joroinen;JOR;431;Joroisista;Joroiseen
+Jorvas;JRS;578;Jorvaksesta;Jorvakseen
+Joutseno;JTS;499;Joutsenosta;Joutsenoon
+Juankoski;JKI;414;Juankoskelta;Juankoskelle
+Jutila;JUT;1085;Jutilasta;Jutilaan
+Juupajoki;JJ;627;Juupajoelta;Juupajoelle
+Juurikorpi;JRI;535;Juurikorvesta;Juurikorpeen
+Jyväskylä;JY;240;Jyväskylästä;Jyväskylään
+Jämsä;JÄS;204;Jämsästä;Jämsään
+Jämsänkoski;JSK;205;Jämsänkoskelta;Jämsänkoskelle
+Järvelä;JR;95;Järvelästä;Järvelään
+Järvenpää asema;JP;25;Järvenpäästä;Järvenpäähän
+Kaipiainen;KPA;485;Kaipiaisista;Kaipiaisiin
+Kaipola;KLA;656;Kaipolasta;Kaipolaan
+Kaitjärvi;KJR;944;Kaitjärveltä;Kaitjärvelle
+Kajaani;KAJ;387;Kajaanista;Kajaaniin
+Kalkku;KAU;639;Kalkusta;Kalkkuun
+Kalvitsa;KSA;548;Kalvitsasta;Kalvitsaan
+Kangas;KGS;1092;Kankaalta;Kankaalle
+Kannelmäki;KAN;658;Kannelmäestä;Kannelmäkeen
+Kannonkoski;KSI;256;Kannonkoskelta;Kannonkoskelle
+Kannus;KNS;317;Kannuksesta;Kannukseen
+Karhejärvi;KRR;1095;Karhejärveltä;Karhejärvelle
+Karhukangas;KHG;1097;Karhukankaalta;Karhukankaalle
+Karjaa;KR;60;Karjaalta;Karjaalle
+Karkku;KRU;178;Karkusta;Karkkuun
+Karviainen;KAR;1100;Karviaisista;Karviaisiin
+Kaskinen;KSK;267;Kaskisista;Kaskisiin
+Kattilaharju;KTH;1319;Kattilaharjusta;Kattilaharjuun
+Kauhajoki;KJI;272;Kauhajoelta;Kauhajoelle
+Kauhava;KHA;299;Kauhavalta;Kauhavaan
+Kauklahti asema;KLH;65;Kauklahdesta;Kauklahteen
+Kaulinranta;KLR;790;Kaulinrannasta;Kaulinrantaan
+Kauniainen;KNI;67;Kauniaisista;Kauniaisiin
+Kauppilanmäki;KPL;423;Kauppilanmäeltä;Kauppilanmäkeen
+Kausala;KA;477;Kausalasta;Kausalaan
+Keitelepohja;KTP;257;Keitelepohjasta;Keitelepohjaan
+Kekomäki;KEK;1101;Kekomäestä;Kekomäelle
+Kemi;KEM;347;Kemistä;Kemiin
+Kemijärvi;KJÄ;367;Kemijärveltä;Kemijärvelle
+Kempele;KML;769;Kempeleeltä;Kempeleelle
+Kera;KEA;621;Kerasta;Keraan
+Kerava asema;KE;20;Keravalta;Keravaan
+Kerimäki;KIÄ;522;Kerimäeltä;Kerimäelle
+Kesälahti;KTI;966;Kesälahdesta;Kesälahteen
+Keuruu;KEU;235;Keuruulta;Keuruulle
+Kiiala;KIA;1113;Kiialasta;Kiialaan
+Kilo;KIL;580;Kilosta;Kiloon
+Kilpua;KUA;1115;Kilpuasta;Kilpuaan
+Kinni;KII;1120;Kinnistä;Kinniin
+Kirkkonummi;KKN;63;Kirkkonummelta;Kirkkonummelle
+Kirkniemi;KRN;79;Kirkniemestä;Kirkniemeen
+Kitee;KIT;453;Kiteeltä;Kiteelle
+Kiukainen;KN;169;Kiukaisista;Kiukaisiin
+Kiuruvesi;KRV;417;Kiuruvedeltä;Kiuruvedelle
+Kivesjärvi;KVJ;378;Kivesjärveltä;Kivesjärvelle
+Kivistö;KTÖ;1330;Kivistöstä;Kivistöön
+Kohtavaara;KOH;848;Kohtavaarasta;Kohtavaaraan
+Koivu;KVU;362;Koivusta;Koivuun
+Koivuhovi;KVH;675;Koivuhovista;Koivuhoviin
+Koivukylä;KVY;559;Koivukylästä;Koivukylään
+Kokemäki;KKI;170;Kokemäeltä;Kokemäelle
+Kokkola;KOK;312;Kokkolasta;Kokkolaan
+Kolari;KLI;358;Kolarista;Kolariin
+Kolho;KLO;199;Kolhosta;Kolhoon
+Kommila;KMM;500;Kommilasta;Kommilaan
+Kontiolahti;KHI;463;Kontiolahdelta;Kontiolahdelle
+Kontiomäki;KON;390;Kontiomäeltä;Kontiomäelle
+Koria;KRA;478;Korialta;Korialle
+Korkeakoski;KAS;193;Korkeakoskelta;Korkeakoskelle
+Korso;KRS;19;Korsosta;Korsoon
+Korvensuo;KSU;1128;Korvensuolta;Korvensuolle
+Koskenkorva;KOS;274;Koskenkorvasta;Koskenkorvaan
+Kotka asema;KTA;532;Kotkasta;Kotkaan
+Kotka Hovinsaari;HOS;980;Kotka Hovinsaaresta;Kotka Hovinsaareen
+Kotka Mussalo;MSS;557;Kotka Mussalosta;Kotka Mussaloon
+Kotkan satama;KTS;644;Kotkan satamasta;Kotkan satamaan
+Kotolahti;KOO;1329;Kotolahdesta;Kotolahteen
+Kouvola asema;KV;480;Kouvolasta;Kouvolaan
+Kouvola lajittelu;KVLA;1132;Kouvola lajittelusta;Kouvola lajitteluun
+Kouvola Oikoraide;OIK;1133;Kouvola Oikoraiteelta;Kouvola Oikoraiteelle
+Kouvola tavara;KVT;1134;Kouvola tavarasta;Kouvola tavaraan
+Kovjoki;KOI;745;Kovjoelta;Kovjoelle
+Kruunupyy;KPY;311;Kruunupyystä;Kruunupyyhyn
+Kuivasjärvi;KIS;1137;Kuivasjärveltä;Kuivasjärvelle
+Kullasvaara;KUV;1320;Kullasvaarasta;Kullasvaaraan
+Kuopio asema;KUO;408;Kuopiosta;Kuopioon
+Kuopio tavara;KUOT;1139;Kuopio tavarasta;Kuopio tavaraan
+Kupittaa;KUT;126;Kupittaalta;Kupittaalle
+Kurkimäki;KRM;406;Kurkimäestä;Kurkimäkeen
+Kuurila;KU;626;Kuurilasta;Kuurilaan
+Kuusankoski;KUK;537;Kuusankoskelta;Kuusankoskelle
+Kylänlahti;KYN;937;Kylänlahdesta;Kylänlahteen
+Kymi;KY;534;Kymistä;Kymiin
+Kyminlinna;KLN;981;Kyminlinnasta;Kyminlinnaan
+Kyrö;KÖ;139;Kyröstä;Kyröön
+Kytömaa;KYT;1111;Kytömaalta;Kytömaalle
+Kälviä;KLV;316;Kälviältä;Kälviälle
+Käpylä;KÄP;977;Käpylästä;Käpylään
+Köykkäri;KÖK;1144;Köykkäristä;Köykkäriin
+Laajavuori;LAV;1341;Laajavuoresta;Laajavuoreen
+Lahdenperä;LPR;1149;Lahdenperästä;Lahdenperään
+Lahnaslampi;LHN;871;Lahnaslammelta;Lahnaslammelle
+Lahti;LH;100;Lahdesta;Lahteen
+Laihia;LAI;293;Laihialta;Laihialle
+Lakiala;LAK;212;Lakialasta;Lakialaan
+Lamminkoski;LMK;1151;Lamminkoskelta;Lamminkoskelle
+Lamminniemi;LAM;845;Lamminniemestä;Lamminniemeen
+Lapinjärvi;LPJ;108;Lapinjärveltä;Lapinjärvelle
+Lapinlahti;LNA;416;Lapinlahdesta;Lapinlahteen
+Lappeenranta;LR;495;Lappeenrannasta;Lappeenrantaan
+Lappila;LAA;94;Lappilasta;Lappilaan
+Lappohja;LPO;75;Lappohjasta;Lappohjaan
+Lapua;LPA;298;Lapualta;Lapuaan
+Larvakytö;LYÖ;1153;Larvakydöstä;Larvakytöön
+Laukaa;LAU;249;Laukaasta;Laukaalle
+Laurila;LLA;360;Laurilasta;Laurilaan
+Lauritsala;LRS;498;Lauritsalasta;Lauritsalaan
+Lautiosaari;LI;829;Lautiosaaresta;Lautiosaareen
+Leinelä;LNÄ;1333;Leinelästä;Leinelään
+Lelkola;LKL;993;Lelkolasta;Lelkolaan
+Lempäälä;LPÄ;156;Lempäälästä;Lempäälään
+Lentoasema;LEN;1332;Lentoasemalta;Lentoasemelle
+Leppäkoski;LK;43;Leppäkoskelta;Leppäkoskelle
+Leppävaara;LPV;68;Leppävaarasta;Leppävaaraan
+Leteensuo;LTS;1154;Leteensuolta;Leteensuolle
+Lieksa;LIS;468;Lieksasta;Lieksaan
+Lielahti;LLH;183;Lielahdesta;Lielahteen
+Lievestuore;LVT;246;Lievestuoreelta;Lievestuoreelle
+Liminka;LKA;338;Limingasta;Liminkaan
+Lohja;LO;81;Lohjalta;Lohjalle
+Loimaa;LM;142;Loimaalta;Loimaalle
+Louhela;LOH;661;Louhelasta;Louhelaan
+Loukolampi;LOL;861;Loukolammelta;Loukolammelle
+Loviisan satama;LVS;106;Loviisasta;Loviisaan
+Luikonlahti;LUI;411;Luikonlahdesta;Luikonlahteen
+Lusto;LUS;690;Lustosta;Lustoon
+Luumäki;LÄ;487;Luumäeltä;Luumäelle
+Länkipohja;LÄP;203;Länkipohjasta;Länkipohjaan
+Maanselkä;MLK;382;Maaselästä;Maaselkään
+Maaria;MRI;1166;Maariasta;Maariaan
+Madesjärvi;MD;217;Madesjärveltä;Madesjärvelle
+Majajärvi;MJJ;1168;Majajärveltä;Majajärvelle
+Malmi;ML;17;Malmilta;Malmille
+Malminkartano;MLO;659;Malminkartanosta;Malminkartanoon
+Mankala;MKA;1336;Mankalasta;Mankalaan
+Markkala;MRK;896;Markkalasta;Markkalaan
+Martinlaakso;MRL;662;Martinlaaksosta;Martinlaaksoon
+Masala;MAS;64;Masalasta;Masalaan
+Matkaneva;MTV;1171;Matkanevelta;Matkanevalle
+Mattila;MAT;1172;Mattilasta;Mattilaan
+Mikkeli;MI;546;Mikkelistä;Mikkeliin
+Misi;MIS;366;Misistä;Misiin
+Mommila;MLA;93;Mommilasta;Mommilaan
+Muhos;MH;375;Muhokselta;Muhokselle
+Mukkula;MUK;594;Mukkulasta;Mukkulaan
+Murtomäki;MUR;386;Murtomäeltä;Murtomäelle
+Mustolan satama;MST;77;Mustolan satamasta;Mustolan satamaan
+Muukko;MKO;1180;Muukosta;Muukkoon
+Muurame;MUU;433;Muuramesta;Muurameen
+Muurola;MUL;363;Muurolasta;Muurolaan
+Myllykangas;MYS;1183;Myllykankaalta;Myllykankaalle
+Myllykoski;MKI;536;Myllykoskelta;Myllykoskelle
+Myllymäki;MY;263;Myllymäeltä;Myllymäkeen
+Mynämäki;MYN;123;Mynämäeltä;Mynämäkeen
+Myyrmäki;MYR;660;Myyrmäestä;Myyrmäkeen
+Mäkkylä;MÄK;693;Mäkkylästä;Mäkkylään
+Mäntsälä;MLÄ;27;Mäntsälästä;Mäntsälään
+Mänttä;MÄN;198;Mäntästä;Mänttään
+Mäntyharju;MR;544;Mäntyharjusta;Mäntyharjuun
+Mäntyluoto;MN;223;Mäntyluodolta;Mäntyluotoon
+Naantali;NNL;124;Naantalista;Naantaliin
+Naarajärvi;NRI;895;Naarajärveltä;Naarajärvelle
+Nakkila;NAL;672;Nakkilasta;Nakkilaan
+Nastola;NSL;595;Nastolasta;Nastolaan
+Niemenpää;NMP;1185;Niemenpäästä;Niemenpäähän
+Niinimäki;NMÄ;1324;Niinimäeltä;Niinimäelle
+Niinisalo;NNS;227;Niinisalosta;Niinisaloon
+Niirala;NRL;446;Niiralasta;Niiralaan
+Niirala-raja;NRLR;445;Niirala-rajalta;Niirala-rajalle
+Niittylahti;NTH;917;Niittylahdesta;Niittylahteen
+Nikkilä;NLÄ;22;Nikkilästä;Nikkilään
+Nivala;NVL;328;Nivalasta;Nivalaan
+Nokia;NOA;181;Nokialta;Nokialle
+Nummela;NM;84;Nummelasta;Nummelaan
+Nurmes;NRM;472;Nurmeksesta;Nurmekseen
+Oitti;OI;92;Oitista;Oittiin
+Orivesi;OV;190;Orivedeltä;Orivedelle
+Orivesi keskusta;OVK;1316;Orivesi kekuksesta;Orivesi keskukseen
+Otanmäki;OTM;385;Otanmäestä;Otanmäelle
+Otava;OT;545;Otavasta;Otavaan
+Oulainen;OU;322;Oulaisista;Oulaisiin
+Oulu asema;OL;370;Oulusta;Ouluun
+Oulu Nokela;NOK;1195;Oulu Nokelasta;Oulu Nokelaan
+Oulu Oritkari;ORI;1196;Oulu Oritkarista;Oulu Oritkariin
+Oulu tavara;OLT;1197;Oulu tavarasta;Oulu tavaraan
+Oulu Tuira;TUA;339;Oulu Tuirasta;Oulu Tuiraan
+Oulunkylä;OLK;15;Oulunkylästä;Oulunkylään
+Paimenportti;PTI;768;Paimenportista;Paimenporttiin
+Paimio;PO;128;Paimiosta;Paimioon
+Palopuro;PLP;562;Palopurosta;Palopuroon
+Paltamo;PTO;379;Paltamosta;Paltamoon
+Pankakoski;PAS;935;Pankakoskelta;Pankakoskelle
+Parikkala;PAR;510;Parikkalasta;Parikkalaan
+Parkano;PKO;215;Parkanosta;Parkanoon
+Parola;PRL;49;Parolasta;Parolaan
+Pasila asema;PSL;10;Pasilasta;Pasilaan
+Pasila autojuna-asema;PAU;1328;Pasila autojuna-asemalta;Pasila autojuna-asemalle
+Pasila tavara;PSLT;1034;Pasila tavarasta;Pasila tavaraan
+Patokangas;PTG;1346;Patokankaalta;Patokankaalle
+Pelkola;PA;1055;Pelkolasta;Pelkolaan
+Pello;PEL;356;Pellosta;Pelloon
+Peräseinäjoki;PSJ;687;Peräseinäjoelta;Peräseinäjoelle
+Pesiökylä;PSK;393;Pesiökylästä;Pesiökylään
+Petäjävesi;PVI;237;Petäjävedeltä;Petäjävedelle
+Pieksämäki asema;PM;400;Pieksämäeltä;Pieksämäkeen
+Pieksämäki lajittelu;PMLA;1210;Pieksämäki lajittelusta;Pieksämäki lajitteluun
+Pieksämäki tavara;PMT;1211;Pieksämäki tavarasta;Pieksämäki tavaraan
+Pieksämäki Temu;TMU;1212;Pieksämäki Temusta;Pieksämäki Temuun
+Pietarsaari;PTS;306;Pietarsaaresta;Pietarsaareen
+Pihlajavesi;PH;261;Pihlajavedeltä;Pihjalavedelle
+Piikkiö;PIK;127;Piikkiöstä;Piikkiöön
+Pikkarala;PKL;819;Pirkkalasta;Pirkkalaan
+Pitäjänmäki;PJM;69;Pitäjänmäeltä;Pitäjänmäelle
+Pohjankuru;PKU;59;Pohjankurusta;Pohjankuruun
+Pohjois-Haaga;POH;657;Pohjois-Haagasta;Pohjois-Haagaan
+Pohjois-Louko;PLU;1214;Pohjois-Loukosta;Pohjois-Loukoon
+Poikkeus;PKK;1216;Poikkeuksesta;Poikkeukseen
+Pori;PRI;220;Porista;Poriin
+Porvoo;PRV;23;Porvoosta;Porvooseen
+Puhos;PUS;919;Puhokselta;Puhokselle
+Puistola;PLA;553;Puistolasta;Puistolaan
+Pukinmäki;PMK;551;Pukinmäestä;Pukinmäkeen
+Pulsa;PL;1217;Pulsasta;Pulsaan
+Punkaharju;PUN;517;Punkaharjulta;Punkaharjulle
+Purola;PUR;564;Purolasta;Purolaan
+Pyhäkumpu;PYK;757;Pyhäkummusta;Pyhäkumpuun
+Pyhäkumpu erkanemisvaihde;PYE;1218;Pyhäkumpu erkanemisvaihteelta;Pyhäkumpu erkanemisvaihteelle
+Pyhäsalmi;PHÄ;331;Pyhäsalmesta;Pyhäsalmeen
+Pännäinen;PNÄ;305;Pännäisistä;Pännäisiin
+Pääskylahti;PKY;519;Pääskylahdesta;Pääskylahteen
+Raahe;RHE;335;Raahesta;Raaheen
+Raippo;RPO;490;Raiposta;Raippoon
+Raisio;RAI;125;Raisiosta;Raisioon
+Rajamäki;RM;88;Rajamäeltä;Rajamäelle
+Rajaperkiö;RJP;1220;Rajaperkiöstä;Rajaperkiöön
+Rantasalmi;RMI;524;Rantasalmelta;Rantasalmelle
+Rasinsuo;RAS;1222;Rasinsuolta;Rasinsuolle
+Ratikylä;RLÄ;596;Ratikylästä;Ratikylään
+Rauha;RAH;501;Rauhasta;Rauhaan
+Rauma;RMA;165;Raumalta;Raumalle
+Raunio;RIO;1227;Rauniosta;Raunioon
+Rautaruukki;RAT;750;Rautaruukista;Rautaruukkiin
+Rautjärvi;RJÄ;506;Raujärveltä;Rautjärvelle
+Rekola;RKL;554;Rekolasta;Rekolaan
+Retretti;REE;793;Retretistä;Retrettiin
+Riihimäki Arolampi;ARP;1235;Riihimäki Arolammelta;Riihimäki Arolammelle
+Riihimäki asema;RI;40;Riihimäeltä;Riihimäelle
+Riihimäki lajittelu;RILA;1238;Riihimäki lajittelusta;Riihimäki lajitteluun
+Riihimäki tavara;RIT;1240;Riihimäki tavarasta;Riihimäki tavaraan
+Riijärvi;RJR;1327;Riijärveltä;Riijärvelle
+Riippa;RPA;747;Riipasta;Riippaan
+Ristiina;RST;770;Ristiinasta;Ristiinaan
+Ristijärvi;RJV;391;Ristijärveltä;Ristijärvelle
+Rovaniemi;ROI;364;Rovaniemeltä;Rovaniemelle
+Ruha;RHA;742;Ruhasta;Ruhaan
+Runni;RNN;886;Runnista;Runniin
+Ruokosuo;RSU;1342;Ruokosuolta;Ruokosuolle
+Ruukki;RKI;337;Ruukista;Ruukkiin
+Ruusumäki;RSM;1338;Ruusumäeltä;Ruusumäelle
+Ryttylä;RY;42;Ryttylästä;Ryttylään
+Röyttä;RÖY;833;Röytästä;Röyttään
+Saakoski;SAA;668;Saakoskelta;Saakoskelle
+Saari;SR;964;Saaresta;Saareen
+Saarijärvi;SRJ;254;Saarijärveltä;Saarijärvelle
+Salminen;SLN;405;Salmisista;Salmisiin
+Salo;SLO;55;Salosta;Saloon
+Sammalisto;SAM;1246;Sammalistosta;Sammalistoon
+Santala;STA;827;Santalasta;Santalaan
+Saunakallio;SAU;806;Saunakalliosta;Saunakallioon
+Saunamäki;SMÄ;1325;Saunamäeltä;Saunamäkeen
+Savio;SAV;555;Saviosta;Savioon
+Savonlinna asema;SL;521;Savonlinnasta;Savonlinnaan
+Seinäjoki asema;SK;280;Seinäjoelta;Seinäjoelle
+Seinäjoki tavara;SKT;1252;Seinäjoki tavarasta;Seinäjoki tavaraan
+Selänpää;SPÄ;539;Selänpäästä;Selänpäähän
+Sieppijärvi;SPJ;796;Sieppijärveltä;Sieppijärvelle
+Sievi;SVI;319;Sievistä;Sieviin
+Siikamäki;SKÄ;429;Siikamäestä;Siikamäelle
+Siilinjärvi Asema;SIJ;413;Siilinjärveltä;Siilinjärvelle
+Simo;SIM;346;Simosta;Simoon
+Simpele;SPL;507;Simpeleeltä;Simpeleelle
+Sipilä;SIP;1254;Sipilästä;Sipilään
+Sisättö;STÖ;1257;Sisätöstä;Sisättöön
+Siuntio;STI;576;Siuntiosta;Siuntioon
+Siuro;SIU;179;Siurosta;Siuroon
+Skogby;SGY;817;Skogbystä;Skogbyhyn
+Sköldvik;SLD;560;Sköldvikistä;Sköldvikiin
+Sukeva;SKV;424;Sukevalta;Sukevalle
+Suolahti;SUO;251;Suolahdesta;Suolahteen
+Suonenjoki;SNJ;404;Suonenjoelta;Suonenjoelle
+Suoniemi;SNM;638;Suoniemestä;Suoniemeen
+Syrjä;SYR;435;Syrjästä;Syrjään
+Syrjämäki;SKI;1265;Syrjämäestä;Syrjämäkeen
+Sysmäjärvi;SMJ;912;Sysmäjärveltä;Sysmäjärvelle
+Säkäniemi;SÄ;918;Säkäniemestä;Säkäniemeen
+Sääksjärvi;SJ;157;Sääksjärveltä;Sääksjärvelle
+Taavetti;TA;486;Taavetista;Taavettiin
+Tahkoluoto;TKO;702;Tahkoluodosta;Tahkoluotoon
+Taipale;TE;1268;Taipaleelta;Taipaleelle
+Talviainen;TV;1270;Talviaisista;Talviaisiin
+Talvivaara;TLV;1323;Talvivaarasta;Talvivaaraan
+Tammisaari;TMS;76;Tammisaaresta;Tammisaareen
+Tampere asema;TPE;160;Tampereelta;Tampereelle
+Tampere Järvensivu;JVS;1272;Tampere Järvensivulta;Tampere Järvensivuun
+Tampere tavara;TPET;1273;Tampere tavarasta;Tampere tavaraan
+Tampere Viinikka;VKA;1274;Tampere Viinikasta;Tampere Viinikkaan
+Tapanila;TNA;552;Tapanilasta;Tapanilaan
+Tapavainola;TAP;1276;Tapavainolasta;Tapavainolaan
+Tavastila;TSL;837;Tavastilasta;Tavastilaan
+Tervajoki;TK;294;Tervajoelta;Tervajoelle
+Tervola;TRV;361;Tervolasta;Tervolaan
+Teuva;TUV;271;Teuvasta;Teuvaan
+Tikkala;TKK;916;Tikkalasta;Tikkalaan
+Tikkaperä;TKP;1335;Tikkaperästä;Tikkaperään
+Tikkurila asema;TKL;18;Tikkurilasta;Tikkurilaan
+Tohmajärvi;TOH;448;Tohmajärveltä;Tohmajärvelle
+Toijala;TL;150;Toijalasta;Toijalaan
+Toivala;TOI;412;Toivalasta;Toivalaan
+Tolsa;TOL;830;Tolsasta;Tolsaan
+Tommola;TOM;1280;Tommolasta;Tommolaan
+Torkkeli;TRK;1283;Torkkelista;Torkkeliin
+Tornio asema;TOR;351;Torniosta;Tornioon
+Tornio-Itäinen;TRI;1318;Tornio-Itäisestä;Tornio-Itäiseen
+Tornio-raja;TRR;678;Tornio-rajalta;Tornio-rajalle
+Tuomarila;TRL;579;Tuomarilasta;Tuomarilaan
+Tuomioja;TJA;336;Tuomiojalta;Tuomiojalle
+Turenki;TU;44;Turengista;Turenkiin
+Turku asema;TKU;130;Turusta;Turkuun
+Turku satama;TUS;135;Turku satamasta;Turku satamaan
+Turku tavara;TKUT;1285;Turku tavarasta;Turku tavaraan
+Tuupovaara;TPV;458;Tuupovaarasta;Tuupovaaraan
+Tuuri;TUU;283;Tuurista;Tuuriin
+Törmä;TÖR;1287;Törmästä;Törmään
+Törölä;TRÄ;1290;Törölästä;Törölään
+Uimaharju;UIM;465;Uimaharjulta;Uimaharjuun
+Urjala;UR;148;Urjalasta;Urjalaan
+Utajärvi;UTJ;376;Utajärveltä;Utajärvelle
+Uusikaupunki;UKP;121;Uusikaupungista;Uusikaupunkiin
+Uusikylä;UKÄ;105;Uusikylästä;Uusikylään
+Vaajakoski;VKO;245;Vaajakoskelta;Vaajakoskelle
+Vaala;VAA;377;Vaalasta;Vaalaan
+Vaasa;VS;288;Vaasasta;Vaasaan
+Vahojärvi;VJR;214;Vahojärveltä;Vahojärvelle
+Vainikkala asema;VNA;492;Vainikkalasta;Vainikkalaan
+Vainikkala tavara;VNAT;1292;Vainikkala tavarasta;Vainikkala tavaraan
+Vainikkala-raja;VNAR;493;Vainikkala-rajalta;Vainikkala-rajalle
+Valimo;VMO;847;Valimosta;Valimoon
+Valkeakoski;VI;153;Valkeakoskelta;Valkeakoskelle
+Valtimo;VLM;475;Valtimosta;Valtimoon
+Vammala;VMA;176;Vammalasta;Vammalaan
+Vanattara;VTR;1295;Vanattarasta;Vanattaraan
+Vantaankoski;VKS;839;Vantaankoskelta;Vantaankoskelle
+Varkaus;VAR;432;Varkaudesta;Varkauteen
+Vartius;VUS;941;Vartiuksesta;Vartiukseen
+Vartius-raja;VUR;949;Vartius-rajalta;Vartius-rajalle
+Vasikkahaka;VKH;1300;Vasikkahaasta;Vasikkahakaan
+Vaskiluoto;VSK;291;Vaskiluodosta;Vaskiluotoon
+Vehkala;VEH;1337;Vehkalasta;Vehkalaan
+Venetmäki;VKI;428;Venetmäeltä;Venetmäkeen
+Vesanka;VN;239;Vesangasta;Vesankaan
+Vierumäki;VRM;112;Vierumäeltä;Vierumäelle
+Vihanti;VTI;334;Vihannista;Vihantiin
+Vihtari;VIH;438;Vihtarista;Vihtariin
+Viiala;VIA;155;Viialasta;Viialaan
+Viinijärvi;VNJ;440;Viinijärveltä;Viinijärvelle
+Villähde;VLH;104;Villähteeltä;Villähteelle
+Vilppula;VLP;196;Vilppulasta;Vilppulaan
+Vinnilä;VIN;1305;Vinnilästä;Vinnilään
+Virkamies;VMS;1339;Virkmiehestä;Virkamieheen
+Voltti;VT;302;Voltista;Volttiin
+Vuohijärvi;VHJ;541;Vuohijärveltä;Vuohijärveen
+Vuojoki;VJO;1310;Vuojoelta;Vuojoelle
+Vuokatti;VKT;383;Vuokatista;Vuokattiin
+Vuonislahti;VSL;467;Vuonislahdelta;Vuonislahdelle
+Vuonos;VNS;863;Vuonoksesta;Vuonokseen
+Vuosaari;VSA;1321;Vuosaaresta;Vuosaareen
+Ykspihlaja tavara;YKST;315;Ykspihlaja tavarasta;Ykspihlaja tavaraan
+Ykspihlaja väliratapiha;YKSV;1326;Ykspihlaja väliratapihalta;Ykspihlaja väliratapihalle
+Ylistaro;YST;296;Ylistarosta;Ylistaroon
+Ylitornio;YTR;789;Ylitorniolta;Ylitornioon
+Ylivalli;YLV;654;Ylivallista;Ylivalliin
+Ylivieska;YV;320;Ylivieskasta;Ylivieskaan
+Yläkoski;YLK;867;Yläkoskelta;Yläkoskelle
+Ylämylly;YLY;913;Ylämyllyltä;Ylämyllylle
+Ylöjärvi;YLÖ;211;Ylöjärveltä;Ylöjärvelle
+Ypykkävaara;YPY;940;Ypykkävaarasta;Ypykkävaaraan
+Äetsä;ÄS;174;Äetsästä;Äetsään
+Ähtäri;ÄHT;265;Ähtäristä;Ähtäriin
+Ämmänsaari;ÄM;394;Ämmänsaaresta;Ämmänsaareen
+Äänekoski;ÄKI;252;Äänekoskelta;Äänekoskelle

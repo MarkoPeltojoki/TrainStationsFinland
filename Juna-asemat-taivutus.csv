@@ -1,0 +1,485 @@
+stationName;stationFrom;stationTo
+Ahonpää;Ahonpäästä;Ahonpäähän
+Ahvenus;Ahvenuksesta;Ahvenukseen
+Ainola;Ainolasta;Ainolaan
+Airaksela;Airakselasta;Airakselaan
+Aittaluoto;Aittaluodosta;Aittaluotoon
+Ajos;Ajoksesta;Ajokseen
+Alapitkä;Alapitkästä;Alapitkään
+Alavus;Alavuksesta;Alavukselle
+Alholma;Alholmasta;Alholmaan
+Arola;Arolasta;Arolaan
+Asola;Asolasta;Asolaan
+Aviapolis;Aviapoliksesta;Aviapolikseen
+Dragsvik;Dragsvikista;Dragsvikiin
+Elijärvi;Elijärveltä;Elijärvelle
+Eläinpuisto-Zoo;Eläinpuisto-Zoosta;Eläinpuisto-Zoohon
+Eno;Enosta;Enoon
+Ervelä;Ervelästä;Ervelään
+Eskola;Eskolasta;Eskolaan
+Espoo;Espoosta;Espooseen
+Haapajärvi;Haapajärveltä;Haapajärvelle
+Haapakoski;Haapakoskelta;Haapakoskelle
+Haapamäki;Haapamäeltä;Haapamäkeen
+Haaparanta;Haaparannasta;Haaparantaan
+Haarajoki;Haarajoelta;Haarajoelle
+Hakosilta;Hakosillalta;Hakosillalle
+Haksi;Haksista;Haksiin
+Hamina;Haminasta;Haminaan
+Hammaslahti;Hammaslahdesta;Hammaslahteen
+Hanala;Hanalasta;Hanalaan
+Hangonsaari;Hangonsaaresta;Hangonsaareen
+Hankasalmi;Hankasalmelta;Hankasalmeen
+Hanko asema;Hangosta;Hankoon
+Hanko tavara;Hanko tavarasta;Hanko tavaraan
+Hanko-Pohjoinen;Hanko-Pohjoisesta;Hanko-Pohjoiseen
+Harjavalta;Harjavallasta;Harjavaltaan
+Harju;Harjusta;Harjuun
+Harviala;Harvialasta;Harvialaan
+Haukipudas;Haukiputaalta;Haukiputaalle
+Haukivuori;Haukivuoresta;Haukivuoreen
+Hausjärvi tavara;Hausjärvi tavarasta;Hausjärvi tavaraan
+Haviseva;Havisevasta;Havisevaan
+Havukoski;Havukoskelta;Havukoskelle
+Heikkilä;Heikkilästä;Heikkilään
+Heinola;Heinolasta;Heinolaan
+Heinoo;Heinoosta;Heinoon
+Heinävaara;Heinävaaralta;Heinävaaraan
+Heinävesi;Heinävedeltä;Heinävedelle
+Helsinki asema;Helsingistä;Helsinkiin
+Helsinki Kivihaka;Helsinki Kivihaasta;Helsinki Kivihakaan
+Henna;Hennasta;Hennaan
+Herrala;Herralasta;Herralaan
+Hiekkaharju;Hiekkaharjulta;Hiekkaharjuun
+Hiirola;Hiirolasta;Hiirolaan
+Hikiä;Hikiältä;Hikiään
+Hillosensalmi;Hillosalmesta;Hillosalmeen
+Hinthaara;Hinthaarasta;Hinthaaraan
+Hirvineva;Hirvinevalta;Hirvinevalle
+Humppila;Humppilasta;Humppilaan
+Huopalahti;Huopalahdesta;Huopalahdelle
+Huutokoski;Huutokoskelta;Huutokoskelle
+Hyrynsalmi;Hyrynsalmelta;Hyrynsalmelle
+Hyvinkää;Hyvinkäältä;Hyvinkäälle
+Hämeenlinna;Hämeenlinnasta;Hämeenlinnaan
+Härmä;Härmästä;Härmään
+Höljäkkä;Höljäkästä;Höljäkkään
+Iisalmi;Iisalmelta;Iisalmeen
+Iittala;Iittalasta;Iittalaan
+Ilmala asema;Ilmalasta;Ilmalaan
+Ilmala ratapiha;Ilmala ratapihalta;Ilmala ratapihalle
+Ilomantsi;Ilomantsista;Ilomantsille
+Imatra asema;Imatralta;Imatralle
+Imatra tavara;Imatra tavarasta;Imatra tavaraan
+Imatrankoski;Imatrankoskelta;Imatrankoskelle
+Imatrankoski-raja;Imatrankoski-rajalta;Imatrankoski-rajalle
+Inkeroinen;Inkeroisista;Inkeroisiin
+Inkoo;Inkoosta;Inkooseen
+Isokyrö;Isokyröstä;Isokyröön
+Jalasjärvi;Jalasjärveltä;Jalasjärvelle
+Jepua;Jepuasta;Jepuaan
+Joensuu asema;Joensuusta;Joensuuhun
+Joensuu Peltola;Joensuu Peltolasta;Joensuu Peltolaan
+Joensuu Sulkulahti;Joensuu Sulkulahdesta;Joensuu Sulkulahteen
+Jokela;Jokelasta;Jokelaan
+Joroinen;Joroisista;Joroiseen
+Jorvas;Jorvaksesta;Jorvakseen
+Joutseno;Joutsenosta;Joutsenoon
+Juankoski;Juankoskelta;Juankoskelle
+Jutila;Jutilasta;Jutilaan
+Juupajoki;Juupajoelta;Juupajoelle
+Juurikorpi;Juurikorvesta;Juurikorpeen
+Jyväskylä;Jyväskylästä;Jyväskylään
+Jämsä;Jämsästä;Jämsään
+Jämsänkoski;Jämsänkoskelta;Jämsänkoskelle
+Järvelä;Järvelästä;Järvelään
+Järvenpää asema;Järvenpäästä;Järvenpäähän
+Kaipiainen;Kaipiaisista;Kaipiaisiin
+Kaipola;Kaipolasta;Kaipolaan
+Kaitjärvi;Kaitjärveltä;Kaitjärvelle
+Kajaani;Kajaanista;Kajaaniin
+Kalkku;Kalkusta;Kalkkuun
+Kalvitsa;Kalvitsasta;Kalvitsaan
+Kangas;Kankaalta;Kankaalle
+Kannelmäki;Kannelmäestä;Kannelmäkeen
+Kannonkoski;Kannonkoskelta;Kannonkoskelle
+Kannus;Kannuksesta;Kannukseen
+Karhejärvi;Karhejärveltä;Karhejärvelle
+Karhukangas;Karhukankaalta;Karhukankaalle
+Karjaa;Karjaalta;Karjaalle
+Karkku;Karkusta;Karkkuun
+Karviainen;Karviaisista;Karviaisiin
+Kaskinen;Kaskisista;Kaskisiin
+Kattilaharju;Kattilaharjusta;Kattilaharjuun
+Kauhajoki;Kauhajoelta;Kauhajoelle
+Kauhava;Kauhavalta;Kauhavaan
+Kauklahti asema;Kauklahdesta;Kauklahteen
+Kaulinranta;Kaulinrannasta;Kaulinrantaan
+Kauniainen;Kauniaisista;Kauniaisiin
+Kauppilanmäki;Kauppilanmäeltä;Kauppilanmäkeen
+Kausala;Kausalasta;Kausalaan
+Keitelepohja;Keitelepohjasta;Keitelepohjaan
+Kekomäki;Kekomäestä;Kekomäelle
+Kemi;Kemistä;Kemiin
+Kemijärvi;Kemijärveltä;Kemijärvelle
+Kempele;Kempeleeltä;Kempeleelle
+Kera;Kerasta;Keraan
+Kerava asema;Keravalta;Keravaan
+Kerimäki;Kerimäeltä;Kerimäelle
+Kesälahti;Kesälahdesta;Kesälahteen
+Keuruu;Keuruulta;Keuruulle
+Kiiala;Kiialasta;Kiialaan
+Kilo;Kilosta;Kiloon
+Kilpua;Kilpuasta;Kilpuaan
+Kinni;Kinnistä;Kinniin
+Kirkkonummi;Kirkkonummelta;Kirkkonummelle
+Kirkniemi;Kirkniemestä;Kirkniemeen
+Kitee;Kiteeltä;Kiteelle
+Kiukainen;Kiukaisista;Kiukaisiin
+Kiuruvesi;Kiuruvedeltä;Kiuruvedelle
+Kivesjärvi;Kivesjärveltä;Kivesjärvelle
+Kivistö;Kivistöstä;Kivistöön
+Kohtavaara;Kohtavaarasta;Kohtavaaraan
+Koivu;Koivusta;Koivuun
+Koivuhovi;Koivuhovista;Koivuhoviin
+Koivukylä;Koivukylästä;Koivukylään
+Kokemäki;Kokemäeltä;Kokemäelle
+Kokkola;Kokkolasta;Kokkolaan
+Kolari;Kolarista;Kolariin
+Kolho;Kolhosta;Kolhoon
+Kommila;Kommilasta;Kommilaan
+Kontiolahti;Kontiolahdelta;Kontiolahdelle
+Kontiomäki;Kontiomäeltä;Kontiomäelle
+Koria;Korialta;Korialle
+Korkeakoski;Korkeakoskelta;Korkeakoskelle
+Korso;Korsosta;Korsoon
+Korvensuo;Korvensuolta;Korvensuolle
+Koskenkorva;Koskenkorvasta;Koskenkorvaan
+Kotka asema;Kotkasta;Kotkaan
+Kotka Hovinsaari;Kotka Hovinsaaresta;Kotka Hovinsaareen
+Kotka Mussalo;Kotka Mussalosta;Kotka Mussaloon
+Kotkan satama;Kotkan satamasta;Kotkan satamaan
+Kotolahti;Kotolahdesta;Kotolahteen
+Kouvola asema;Kouvolasta;Kouvolaan
+Kouvola lajittelu;Kouvola lajittelusta;Kouvola lajitteluun
+Kouvola Oikoraide;Kouvola Oikoraiteelta;Kouvola Oikoraiteelle
+Kouvola tavara;Kouvola tavarasta;Kouvola tavaraan
+Kovjoki;Kovjoelta;Kovjoelle
+Kruunupyy;Kruunupyystä;Kruunupyyhyn
+Kuivasjärvi;Kuivasjärveltä;Kuivasjärvelle
+Kullasvaara;Kullasvaarasta;Kullasvaaraan
+Kuopio asema;Kuopiosta;Kuopioon
+Kuopio tavara;Kuopio tavarasta;Kuopio tavaraan
+Kupittaa;Kupittaalta;Kupittaalle
+Kurkimäki;Kurkimäestä;Kurkimäkeen
+Kuurila;Kuurilasta;Kuurilaan
+Kuusankoski;Kuusankoskelta;Kuusankoskelle
+Kylänlahti;Kylänlahdesta;Kylänlahteen
+Kymi;Kymistä;Kymiin
+Kyminlinna;Kyminlinnasta;Kyminlinnaan
+Kyrö;Kyröstä;Kyröön
+Kytömaa;Kytömaalta;Kytömaalle
+Kälviä;Kälviältä;Kälviälle
+Käpylä;Käpylästä;Käpylään
+Köykkäri;Köykkäristä;Köykkäriin
+Laajavuori;Laajavuoresta;Laajavuoreen
+Lahdenperä;Lahdenperästä;Lahdenperään
+Lahnaslampi;Lahnaslammelta;Lahnaslammelle
+Lahti;Lahdesta;Lahteen
+Laihia;Laihialta;Laihialle
+Lakiala;Lakialasta;Lakialaan
+Lamminkoski;Lamminkoskelta;Lamminkoskelle
+Lamminniemi;Lamminniemestä;Lamminniemeen
+Lapinjärvi;Lapinjärveltä;Lapinjärvelle
+Lapinlahti;Lapinlahdesta;Lapinlahteen
+Lappeenranta;Lappeenrannasta;Lappeenrantaan
+Lappila;Lappilasta;Lappilaan
+Lappohja;Lappohjasta;Lappohjaan
+Lapua;Lapualta;Lapuaan
+Larvakytö;Larvakydöstä;Larvakytöön
+Laukaa;Laukaasta;Laukaalle
+Laurila;Laurilasta;Laurilaan
+Lauritsala;Lauritsalasta;Lauritsalaan
+Lautiosaari;Lautiosaaresta;Lautiosaareen
+Leinelä;Leinelästä;Leinelään
+Lelkola;Lelkolasta;Lelkolaan
+Lempäälä;Lempäälästä;Lempäälään
+Lentoasema;Lentoasemalta;Lentoasemelle
+Leppäkoski;Leppäkoskelta;Leppäkoskelle
+Leppävaara;Leppävaarasta;Leppävaaraan
+Leteensuo;Leteensuolta;Leteensuolle
+Lieksa;Lieksasta;Lieksaan
+Lielahti;Lielahdesta;Lielahteen
+Lievestuore;Lievestuoreelta;Lievestuoreelle
+Liminka;Limingasta;Liminkaan
+Lohja;Lohjalta;Lohjalle
+Loimaa;Loimaalta;Loimaalle
+Louhela;Louhelasta;Louhelaan
+Loukolampi;Loukolammelta;Loukolammelle
+Loviisan satama;Loviisasta;Loviisaan
+Luikonlahti;Luikonlahdesta;Luikonlahteen
+Lusto;Lustosta;Lustoon
+Luumäki;Luumäeltä;Luumäelle
+Länkipohja;Länkipohjasta;Länkipohjaan
+Maanselkä;Maaselästä;Maaselkään
+Maaria;Maariasta;Maariaan
+Madesjärvi;Madesjärveltä;Madesjärvelle
+Majajärvi;Majajärveltä;Majajärvelle
+Malmi;Malmilta;Malmille
+Malminkartano;Malminkartanosta;Malminkartanoon
+Mankala;Mankalasta;Mankalaan
+Markkala;Markkalasta;Markkalaan
+Martinlaakso;Martinlaaksosta;Martinlaaksoon
+Masala;Masalasta;Masalaan
+Matkaneva;Matkanevelta;Matkanevalle
+Mattila;Mattilasta;Mattilaan
+Mikkeli;Mikkelistä;Mikkeliin
+Misi;Misistä;Misiin
+Mommila;Mommilasta;Mommilaan
+Muhos;Muhokselta;Muhokselle
+Mukkula;Mukkulasta;Mukkulaan
+Murtomäki;Murtomäeltä;Murtomäelle
+Mustolan satama;Mustolan satamasta;Mustolan satamaan
+Muukko;Muukosta;Muukkoon
+Muurame;Muuramesta;Muurameen
+Muurola;Muurolasta;Muurolaan
+Myllykangas;Myllykankaalta;Myllykankaalle
+Myllykoski;Myllykoskelta;Myllykoskelle
+Myllymäki;Myllymäeltä;Myllymäkeen
+Mynämäki;Mynämäeltä;Mynämäkeen
+Myyrmäki;Myyrmäestä;Myyrmäkeen
+Mäkkylä;Mäkkylästä;Mäkkylään
+Mäntsälä;Mäntsälästä;Mäntsälään
+Mänttä;Mäntästä;Mänttään
+Mäntyharju;Mäntyharjusta;Mäntyharjuun
+Mäntyluoto;Mäntyluodolta;Mäntyluotoon
+Naantali;Naantalista;Naantaliin
+Naarajärvi;Naarajärveltä;Naarajärvelle
+Nakkila;Nakkilasta;Nakkilaan
+Nastola;Nastolasta;Nastolaan
+Niemenpää;Niemenpäästä;Niemenpäähän
+Niinimäki;Niinimäeltä;Niinimäelle
+Niinisalo;Niinisalosta;Niinisaloon
+Niirala;Niiralasta;Niiralaan
+Niirala-raja;Niirala-rajalta;Niirala-rajalle
+Niittylahti;Niittylahdesta;Niittylahteen
+Nikkilä;Nikkilästä;Nikkilään
+Nivala;Nivalasta;Nivalaan
+Nokia;Nokialta;Nokialle
+Nummela;Nummelasta;Nummelaan
+Nurmes;Nurmeksesta;Nurmekseen
+Oitti;Oitista;Oittiin
+Orivesi;Orivedeltä;Orivedelle
+Orivesi keskusta;Orivesi kekuksesta;Orivesi keskukseen
+Otanmäki;Otanmäestä;Otanmäelle
+Otava;Otavasta;Otavaan
+Oulainen;Oulaisista;Oulaisiin
+Oulu asema;Oulusta;Ouluun
+Oulu Nokela;Oulu Nokelasta;Oulu Nokelaan
+Oulu Oritkari;Oulu Oritkarista;Oulu Oritkariin
+Oulu tavara;Oulu tavarasta;Oulu tavaraan
+Oulu Tuira;Oulu Tuirasta;Oulu Tuiraan
+Oulunkylä;Oulunkylästä;Oulunkylään
+Paimenportti;Paimenportista;Paimenporttiin
+Paimio;Paimiosta;Paimioon
+Palopuro;Palopurosta;Palopuroon
+Paltamo;Paltamosta;Paltamoon
+Pankakoski;Pankakoskelta;Pankakoskelle
+Parikkala;Parikkalasta;Parikkalaan
+Parkano;Parkanosta;Parkanoon
+Parola;Parolasta;Parolaan
+Pasila asema;Pasilasta;Pasilaan
+Pasila autojuna-asema;Pasila autojuna-asemalta;Pasila autojuna-asemalle
+Pasila tavara;Pasila tavarasta;Pasila tavaraan
+Patokangas;Patokankaalta;Patokankaalle
+Pelkola;Pelkolasta;Pelkolaan
+Pello;Pellosta;Pelloon
+Peräseinäjoki;Peräseinäjoelta;Peräseinäjoelle
+Pesiökylä;Pesiökylästä;Pesiökylään
+Petäjävesi;Petäjävedeltä;Petäjävedelle
+Pieksämäki asema;Pieksämäeltä;Pieksämäkeen
+Pieksämäki lajittelu;Pieksämäki lajittelusta;Pieksämäki lajitteluun
+Pieksämäki tavara;Pieksämäki tavarasta;Pieksämäki tavaraan
+Pieksämäki Temu;Pieksämäki Temusta;Pieksämäki Temuun
+Pietarsaari;Pietarsaaresta;Pietarsaareen
+Pihlajavesi;Pihlajavedeltä;Pihjalavedelle
+Piikkiö;Piikkiöstä;Piikkiöön
+Pikkarala;Pirkkalasta;Pirkkalaan
+Pitäjänmäki;Pitäjänmäeltä;Pitäjänmäelle
+Pohjankuru;Pohjankurusta;Pohjankuruun
+Pohjois-Haaga;Pohjois-Haagasta;Pohjois-Haagaan
+Pohjois-Louko;Pohjois-Loukosta;Pohjois-Loukoon
+Poikkeus;Poikkeuksesta;Poikkeukseen
+Pori;Porista;Poriin
+Porvoo;Porvoosta;Porvooseen
+Puhos;Puhokselta;Puhokselle
+Puistola;Puistolasta;Puistolaan
+Pukinmäki;Pukinmäestä;Pukinmäkeen
+Pulsa;Pulsasta;Pulsaan
+Punkaharju;Punkaharjulta;Punkaharjulle
+Purola;Purolasta;Purolaan
+Pyhäkumpu;Pyhäkummusta;Pyhäkumpuun
+Pyhäkumpu erkanemisvaihde;Pyhäkumpu erkanemisvaihteelta;Pyhäkumpu erkanemisvaihteelle
+Pyhäsalmi;Pyhäsalmesta;Pyhäsalmeen
+Pännäinen;Pännäisistä;Pännäisiin
+Pääskylahti;Pääskylahdesta;Pääskylahteen
+Raahe;Raahesta;Raaheen
+Raippo;Raiposta;Raippoon
+Raisio;Raisiosta;Raisioon
+Rajamäki;Rajamäeltä;Rajamäelle
+Rajaperkiö;Rajaperkiöstä;Rajaperkiöön
+Rantasalmi;Rantasalmelta;Rantasalmelle
+Rasinsuo;Rasinsuolta;Rasinsuolle
+Ratikylä;Ratikylästä;Ratikylään
+Rauha;Rauhasta;Rauhaan
+Rauma;Raumalta;Raumalle
+Raunio;Rauniosta;Raunioon
+Rautaruukki;Rautaruukista;Rautaruukkiin
+Rautjärvi;Raujärveltä;Rautjärvelle
+Rekola;Rekolasta;Rekolaan
+Retretti;Retretistä;Retrettiin
+Riihimäki Arolampi;Riihimäki Arolammelta;Riihimäki Arolammelle
+Riihimäki asema;Riihimäeltä;Riihimäelle
+Riihimäki lajittelu;Riihimäki lajittelusta;Riihimäki lajitteluun
+Riihimäki tavara;Riihimäki tavarasta;Riihimäki tavaraan
+Riijärvi;Riijärveltä;Riijärvelle
+Riippa;Riipasta;Riippaan
+Ristiina;Ristiinasta;Ristiinaan
+Ristijärvi;Ristijärveltä;Ristijärvelle
+Rovaniemi;Rovaniemeltä;Rovaniemelle
+Ruha;Ruhasta;Ruhaan
+Runni;Runnista;Runniin
+Ruokosuo;Ruokosuolta;Ruokosuolle
+Ruukki;Ruukista;Ruukkiin
+Ruusumäki;Ruusumäeltä;Ruusumäelle
+Ryttylä;Ryttylästä;Ryttylään
+Röyttä;Röytästä;Röyttään
+Saakoski;Saakoskelta;Saakoskelle
+Saari;Saaresta;Saareen
+Saarijärvi;Saarijärveltä;Saarijärvelle
+Salminen;Salmisista;Salmisiin
+Salo;Salosta;Saloon
+Sammalisto;Sammalistosta;Sammalistoon
+Santala;Santalasta;Santalaan
+Saunakallio;Saunakalliosta;Saunakallioon
+Saunamäki;Saunamäeltä;Saunamäkeen
+Savio;Saviosta;Savioon
+Savonlinna asema;Savonlinnasta;Savonlinnaan
+Seinäjoki asema;Seinäjoelta;Seinäjoelle
+Seinäjoki tavara;Seinäjoki tavarasta;Seinäjoki tavaraan
+Selänpää;Selänpäästä;Selänpäähän
+Sieppijärvi;Sieppijärveltä;Sieppijärvelle
+Sievi;Sievistä;Sieviin
+Siikamäki;Siikamäestä;Siikamäelle
+Siilinjärvi Asema;Siilinjärveltä;Siilinjärvelle
+Simo;Simosta;Simoon
+Simpele;Simpeleeltä;Simpeleelle
+Sipilä;Sipilästä;Sipilään
+Sisättö;Sisätöstä;Sisättöön
+Siuntio;Siuntiosta;Siuntioon
+Siuro;Siurosta;Siuroon
+Skogby;Skogbystä;Skogbyhyn
+Sköldvik;Sköldvikistä;Sköldvikiin
+Sukeva;Sukevalta;Sukevalle
+Suolahti;Suolahdesta;Suolahteen
+Suonenjoki;Suonenjoelta;Suonenjoelle
+Suoniemi;Suoniemestä;Suoniemeen
+Syrjä;Syrjästä;Syrjään
+Syrjämäki;Syrjämäestä;Syrjämäkeen
+Sysmäjärvi;Sysmäjärveltä;Sysmäjärvelle
+Säkäniemi;Säkäniemestä;Säkäniemeen
+Sääksjärvi;Sääksjärveltä;Sääksjärvelle
+Taavetti;Taavetista;Taavettiin
+Tahkoluoto;Tahkoluodosta;Tahkoluotoon
+Taipale;Taipaleelta;Taipaleelle
+Talviainen;Talviaisista;Talviaisiin
+Talvivaara;Talvivaarasta;Talvivaaraan
+Tammisaari;Tammisaaresta;Tammisaareen
+Tampere asema;Tampereelta;Tampereelle
+Tampere Järvensivu;Tampere Järvensivulta;Tampere Järvensivuun
+Tampere tavara;Tampere tavarasta;Tampere tavaraan
+Tampere Viinikka;Tampere Viinikasta;Tampere Viinikkaan
+Tapanila;Tapanilasta;Tapanilaan
+Tapavainola;Tapavainolasta;Tapavainolaan
+Tavastila;Tavastilasta;Tavastilaan
+Tervajoki;Tervajoelta;Tervajoelle
+Tervola;Tervolasta;Tervolaan
+Teuva;Teuvasta;Teuvaan
+Tikkala;Tikkalasta;Tikkalaan
+Tikkaperä;Tikkaperästä;Tikkaperään
+Tikkurila asema;Tikkurilasta;Tikkurilaan
+Tohmajärvi;Tohmajärveltä;Tohmajärvelle
+Toijala;Toijalasta;Toijalaan
+Toivala;Toivalasta;Toivalaan
+Tolsa;Tolsasta;Tolsaan
+Tommola;Tommolasta;Tommolaan
+Torkkeli;Torkkelista;Torkkeliin
+Tornio asema;Torniosta;Tornioon
+Tornio-Itäinen;Tornio-Itäisestä;Tornio-Itäiseen
+Tornio-raja;Tornio-rajalta;Tornio-rajalle
+Tuomarila;Tuomarilasta;Tuomarilaan
+Tuomioja;Tuomiojalta;Tuomiojalle
+Turenki;Turengista;Turenkiin
+Turku asema;Turusta;Turkuun
+Turku satama;Turku satamasta;Turku satamaan
+Turku tavara;Turku tavarasta;Turku tavaraan
+Tuupovaara;Tuupovaarasta;Tuupovaaraan
+Tuuri;Tuurista;Tuuriin
+Törmä;Törmästä;Törmään
+Törölä;Törölästä;Törölään
+Uimaharju;Uimaharjulta;Uimaharjuun
+Urjala;Urjalasta;Urjalaan
+Utajärvi;Utajärveltä;Utajärvelle
+Uusikaupunki;Uusikaupungista;Uusikaupunkiin
+Uusikylä;Uusikylästä;Uusikylään
+Vaajakoski;Vaajakoskelta;Vaajakoskelle
+Vaala;Vaalasta;Vaalaan
+Vaasa;Vaasasta;Vaasaan
+Vahojärvi;Vahojärveltä;Vahojärvelle
+Vainikkala asema;Vainikkalasta;Vainikkalaan
+Vainikkala tavara;Vainikkala tavarasta;Vainikkala tavaraan
+Vainikkala-raja;Vainikkala-rajalta;Vainikkala-rajalle
+Valimo;Valimosta;Valimoon
+Valkeakoski;Valkeakoskelta;Valkeakoskelle
+Valtimo;Valtimosta;Valtimoon
+Vammala;Vammalasta;Vammalaan
+Vanattara;Vanattarasta;Vanattaraan
+Vantaankoski;Vantaankoskelta;Vantaankoskelle
+Varkaus;Varkaudesta;Varkauteen
+Vartius;Vartiuksesta;Vartiukseen
+Vartius-raja;Vartius-rajalta;Vartius-rajalle
+Vasikkahaka;Vasikkahaasta;Vasikkahakaan
+Vaskiluoto;Vaskiluodosta;Vaskiluotoon
+Vehkala;Vehkalasta;Vehkalaan
+Venetmäki;Venetmäeltä;Venetmäkeen
+Vesanka;Vesangasta;Vesankaan
+Vierumäki;Vierumäeltä;Vierumäelle
+Vihanti;Vihannista;Vihantiin
+Vihtari;Vihtarista;Vihtariin
+Viiala;Viialasta;Viialaan
+Viinijärvi;Viinijärveltä;Viinijärvelle
+Villähde;Villähteeltä;Villähteelle
+Vilppula;Vilppulasta;Vilppulaan
+Vinnilä;Vinnilästä;Vinnilään
+Virkamies;Virkmiehestä;Virkamieheen
+Voltti;Voltista;Volttiin
+Vuohijärvi;Vuohijärveltä;Vuohijärveen
+Vuojoki;Vuojoelta;Vuojoelle
+Vuokatti;Vuokatista;Vuokattiin
+Vuonislahti;Vuonislahdelta;Vuonislahdelle
+Vuonos;Vuonoksesta;Vuonokseen
+Vuosaari;Vuosaaresta;Vuosaareen
+Ykspihlaja tavara;Ykspihlaja tavarasta;Ykspihlaja tavaraan
+Ykspihlaja väliratapiha;Ykspihlaja väliratapihalta;Ykspihlaja väliratapihalle
+Ylistaro;Ylistarosta;Ylistaroon
+Ylitornio;Ylitorniolta;Ylitornioon
+Ylivalli;Ylivallista;Ylivalliin
+Ylivieska;Ylivieskasta;Ylivieskaan
+Yläkoski;Yläkoskelta;Yläkoskelle
+Ylämylly;Ylämyllyltä;Ylämyllylle
+Ylöjärvi;Ylöjärveltä;Ylöjärvelle
+Ypykkävaara;Ypykkävaarasta;Ypykkävaaraan
+Äetsä;Äetsästä;Äetsään
+Ähtäri;Ähtäristä;Ähtäriin
+Ämmänsaari;Ämmänsaaresta;Ämmänsaareen
+Äänekoski;Äänekoskelta;Äänekoskelle

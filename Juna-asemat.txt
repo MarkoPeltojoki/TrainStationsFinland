@@ -1,0 +1,485 @@
+stationName;stationShortCode;stationUICCode
+Ahonpää;AHO;1343
+Ahvenus;AHV;1000
+Ainola;AIN;628
+Airaksela;ARL;869
+Aittaluoto;ATL;676
+Ajos;AJO;767
+Alapitkä;APT;415
+Alavus;ALV;284
+Alholma;ALH;308
+Arola;ARO;939
+Asola;ASO;1340
+Aviapolis;AVP;1331
+Dragsvik;DRA;167
+Elijärvi;ELI;828
+Eläinpuisto-Zoo;EPZ;623
+Eno;ENO;464
+Ervelä;ERV;1004
+Eskola;ELA;318
+Espoo;EPO;66
+Haapajärvi;HPJ;330
+Haapakoski;HPS;402
+Haapamäki;HPK;200
+Haaparanta;HPA;1408
+Haarajoki;HAA;13
+Hakosilta;HLT;1014
+Haksi;HSI;1015
+Hamina;HMA;527
+Hammaslahti;HSL;451
+Hanala;HNA;1018
+Hangonsaari;HGS;1020
+Hankasalmi;HKS;427
+Hanko asema;HNK;73
+Hanko tavara;HNKT;1317
+Hanko-Pohjoinen;HKP;879
+Harjavalta;HVA;218
+Harju;HJ;985
+Harviala;HRV;622
+Haukipudas;HD;342
+Haukivuori;HAU;549
+Hausjärvi tavara;HAS;340
+Haviseva;HVS;1021
+Havukoski;HVK;1334
+Heikkilä;HEK;1023
+Heinola;HA;113
+Heinoo;HNO;1025
+Heinävaara;HÄV;924
+Heinävesi;HNV;437
+Helsinki asema;HKI;1
+Helsinki Kivihaka;KHK;1028
+Henna;HNN;1164
+Herrala;HR;96
+Hiekkaharju;HKH;556
+Hiirola;HIR;997
+Hikiä;HK;91
+Hillosensalmi;HLS;988
+Hinthaara;HH;561
+Hirvineva;HVN;1041
+Humppila;HP;144
+Huopalahti;HPL;72
+Huutokoski;HKO;430
+Hyrynsalmi;HYS;392
+Hyvinkää;HY;30
+Hämeenlinna;HL;47
+Härmä;HM;300
+Höljäkkä;HÖL;938
+Iisalmi;ILM;420
+Iittala;ITA;154
+Ilmala asema;ILA;9
+Ilmala ratapiha;ILR;1030
+Ilomantsi;ILO;459
+Imatra asema;IMR;603
+Imatra tavara;IMT;502
+Imatrankoski;IMK;504
+Imatrankoski-raja;IMKR;503
+Inkeroinen;IKR;530
+Inkoo;IKO;62
+Isokyrö;IKY;295
+Jalasjärvi;JAL;276
+Jepua;JPA;303
+Joensuu asema;JNS;460
+Joensuu Peltola;PLT;1070
+Joensuu Sulkulahti;SUL;1071
+Jokela;JK;28
+Joroinen;JOR;431
+Jorvas;JRS;578
+Joutseno;JTS;499
+Juankoski;JKI;414
+Jutila;JUT;1085
+Juupajoki;JJ;627
+Juurikorpi;JRI;535
+Jyväskylä;JY;240
+Jämsä;JÄS;204
+Jämsänkoski;JSK;205
+Järvelä;JR;95
+Järvenpää asema;JP;25
+Kaipiainen;KPA;485
+Kaipola;KLA;656
+Kaitjärvi;KJR;944
+Kajaani;KAJ;387
+Kalkku;KAU;639
+Kalvitsa;KSA;548
+Kangas;KGS;1092
+Kannelmäki;KAN;658
+Kannonkoski;KSI;256
+Kannus;KNS;317
+Karhejärvi;KRR;1095
+Karhukangas;KHG;1097
+Karjaa;KR;60
+Karkku;KRU;178
+Karviainen;KAR;1100
+Kaskinen;KSK;267
+Kattilaharju;KTH;1319
+Kauhajoki;KJI;272
+Kauhava;KHA;299
+Kauklahti asema;KLH;65
+Kaulinranta;KLR;790
+Kauniainen;KNI;67
+Kauppilanmäki;KPL;423
+Kausala;KA;477
+Keitelepohja;KTP;257
+Kekomäki;KEK;1101
+Kemi;KEM;347
+Kemijärvi;KJÄ;367
+Kempele;KML;769
+Kera;KEA;621
+Kerava asema;KE;20
+Kerimäki;KIÄ;522
+Kesälahti;KTI;966
+Keuruu;KEU;235
+Kiiala;KIA;1113
+Kilo;KIL;580
+Kilpua;KUA;1115
+Kinni;KII;1120
+Kirkkonummi;KKN;63
+Kirkniemi;KRN;79
+Kitee;KIT;453
+Kiukainen;KN;169
+Kiuruvesi;KRV;417
+Kivesjärvi;KVJ;378
+Kivistö;KTÖ;1330
+Kohtavaara;KOH;848
+Koivu;KVU;362
+Koivuhovi;KVH;675
+Koivukylä;KVY;559
+Kokemäki;KKI;170
+Kokkola;KOK;312
+Kolari;KLI;358
+Kolho;KLO;199
+Kommila;KMM;500
+Kontiolahti;KHI;463
+Kontiomäki;KON;390
+Koria;KRA;478
+Korkeakoski;KAS;193
+Korso;KRS;19
+Korvensuo;KSU;1128
+Koskenkorva;KOS;274
+Kotka asema;KTA;532
+Kotka Hovinsaari;HOS;980
+Kotka Mussalo;MSS;557
+Kotkan satama;KTS;644
+Kotolahti;KOO;1329
+Kouvola asema;KV;480
+Kouvola lajittelu;KVLA;1132
+Kouvola Oikoraide;OIK;1133
+Kouvola tavara;KVT;1134
+Kovjoki;KOI;745
+Kruunupyy;KPY;311
+Kuivasjärvi;KIS;1137
+Kullasvaara;KUV;1320
+Kuopio asema;KUO;408
+Kuopio tavara;KUOT;1139
+Kupittaa;KUT;126
+Kurkimäki;KRM;406
+Kuurila;KU;626
+Kuusankoski;KUK;537
+Kylänlahti;KYN;937
+Kymi;KY;534
+Kyminlinna;KLN;981
+Kyrö;KÖ;139
+Kytömaa;KYT;1111
+Kälviä;KLV;316
+Käpylä;KÄP;977
+Köykkäri;KÖK;1144
+Laajavuori;LAV;1341
+Lahdenperä;LPR;1149
+Lahnaslampi;LHN;871
+Lahti;LH;100
+Laihia;LAI;293
+Lakiala;LAK;212
+Lamminkoski;LMK;1151
+Lamminniemi;LAM;845
+Lapinjärvi;LPJ;108
+Lapinlahti;LNA;416
+Lappeenranta;LR;495
+Lappila;LAA;94
+Lappohja;LPO;75
+Lapua;LPA;298
+Larvakytö;LYÖ;1153
+Laukaa;LAU;249
+Laurila;LLA;360
+Lauritsala;LRS;498
+Lautiosaari;LI;829
+Leinelä;LNÄ;1333
+Lelkola;LKL;993
+Lempäälä;LPÄ;156
+Lentoasema;LEN;1332
+Leppäkoski;LK;43
+Leppävaara;LPV;68
+Leteensuo;LTS;1154
+Lieksa;LIS;468
+Lielahti;LLH;183
+Lievestuore;LVT;246
+Liminka;LKA;338
+Lohja;LO;81
+Loimaa;LM;142
+Louhela;LOH;661
+Loukolampi;LOL;861
+Loviisan satama;LVS;106
+Luikonlahti;LUI;411
+Lusto;LUS;690
+Luumäki;LÄ;487
+Länkipohja;LÄP;203
+Maanselkä;MLK;382
+Maaria;MRI;1166
+Madesjärvi;MD;217
+Majajärvi;MJJ;1168
+Malmi;ML;17
+Malminkartano;MLO;659
+Mankala;MKA;1336
+Markkala;MRK;896
+Martinlaakso;MRL;662
+Masala;MAS;64
+Matkaneva;MTV;1171
+Mattila;MAT;1172
+Mikkeli;MI;546
+Misi;MIS;366
+Mommila;MLA;93
+Muhos;MH;375
+Mukkula;MUK;594
+Murtomäki;MUR;386
+Mustolan satama;MST;77
+Muukko;MKO;1180
+Muurame;MUU;433
+Muurola;MUL;363
+Myllykangas;MYS;1183
+Myllykoski;MKI;536
+Myllymäki;MY;263
+Mynämäki;MYN;123
+Myyrmäki;MYR;660
+Mäkkylä;MÄK;693
+Mäntsälä;MLÄ;27
+Mänttä;MÄN;198
+Mäntyharju;MR;544
+Mäntyluoto;MN;223
+Naantali;NNL;124
+Naarajärvi;NRI;895
+Nakkila;NAL;672
+Nastola;NSL;595
+Niemenpää;NMP;1185
+Niinimäki;NMÄ;1324
+Niinisalo;NNS;227
+Niirala;NRL;446
+Niirala-raja;NRLR;445
+Niittylahti;NTH;917
+Nikkilä;NLÄ;22
+Nivala;NVL;328
+Nokia;NOA;181
+Nummela;NM;84
+Nurmes;NRM;472
+Oitti;OI;92
+Orivesi;OV;190
+Orivesi keskusta;OVK;1316
+Otanmäki;OTM;385
+Otava;OT;545
+Oulainen;OU;322
+Oulu asema;OL;370
+Oulu Nokela;NOK;1195
+Oulu Oritkari;ORI;1196
+Oulu tavara;OLT;1197
+Oulu Tuira;TUA;339
+Oulunkylä;OLK;15
+Paimenportti;PTI;768
+Paimio;PO;128
+Palopuro;PLP;562
+Paltamo;PTO;379
+Pankakoski;PAS;935
+Parikkala;PAR;510
+Parkano;PKO;215
+Parola;PRL;49
+Pasila asema;PSL;10
+Pasila autojuna-asema;PAU;1328
+Pasila tavara;PSLT;1034
+Patokangas;PTG;1346
+Pelkola;PA;1055
+Pello;PEL;356
+Peräseinäjoki;PSJ;687
+Pesiökylä;PSK;393
+Petäjävesi;PVI;237
+Pieksämäki asema;PM;400
+Pieksämäki lajittelu;PMLA;1210
+Pieksämäki tavara;PMT;1211
+Pieksämäki Temu;TMU;1212
+Pietarsaari;PTS;306
+Pihlajavesi;PH;261
+Piikkiö;PIK;127
+Pikkarala;PKL;819
+Pitäjänmäki;PJM;69
+Pohjankuru;PKU;59
+Pohjois-Haaga;POH;657
+Pohjois-Louko;PLU;1214
+Poikkeus;PKK;1216
+Pori;PRI;220
+Porvoo;PRV;23
+Puhos;PUS;919
+Puistola;PLA;553
+Pukinmäki;PMK;551
+Pulsa;PL;1217
+Punkaharju;PUN;517
+Purola;PUR;564
+Pyhäkumpu;PYK;757
+Pyhäkumpu erkanemisvaihde;PYE;1218
+Pyhäsalmi;PHÄ;331
+Pännäinen;PNÄ;305
+Pääskylahti;PKY;519
+Raahe;RHE;335
+Raippo;RPO;490
+Raisio;RAI;125
+Rajamäki;RM;88
+Rajaperkiö;RJP;1220
+Rantasalmi;RMI;524
+Rasinsuo;RAS;1222
+Ratikylä;RLÄ;596
+Rauha;RAH;501
+Rauma;RMA;165
+Raunio;RIO;1227
+Rautaruukki;RAT;750
+Rautjärvi;RJÄ;506
+Rekola;RKL;554
+Retretti;REE;793
+Riihimäki Arolampi;ARP;1235
+Riihimäki asema;RI;40
+Riihimäki lajittelu;RILA;1238
+Riihimäki tavara;RIT;1240
+Riijärvi;RJR;1327
+Riippa;RPA;747
+Ristiina;RST;770
+Ristijärvi;RJV;391
+Rovaniemi;ROI;364
+Ruha;RHA;742
+Runni;RNN;886
+Ruokosuo;RSU;1342
+Ruukki;RKI;337
+Ruusumäki;RSM;1338
+Ryttylä;RY;42
+Röyttä;RÖY;833
+Saakoski;SAA;668
+Saari;SR;964
+Saarijärvi;SRJ;254
+Salminen;SLN;405
+Salo;SLO;55
+Sammalisto;SAM;1246
+Santala;STA;827
+Saunakallio;SAU;806
+Saunamäki;SMÄ;1325
+Savio;SAV;555
+Savonlinna asema;SL;521
+Seinäjoki asema;SK;280
+Seinäjoki tavara;SKT;1252
+Selänpää;SPÄ;539
+Sieppijärvi;SPJ;796
+Sievi;SVI;319
+Siikamäki;SKÄ;429
+Siilinjärvi Asema;SIJ;413
+Simo;SIM;346
+Simpele;SPL;507
+Sipilä;SIP;1254
+Sisättö;STÖ;1257
+Siuntio;STI;576
+Siuro;SIU;179
+Skogby;SGY;817
+Sköldvik;SLD;560
+Sukeva;SKV;424
+Suolahti;SUO;251
+Suonenjoki;SNJ;404
+Suoniemi;SNM;638
+Syrjä;SYR;435
+Syrjämäki;SKI;1265
+Sysmäjärvi;SMJ;912
+Säkäniemi;SÄ;918
+Sääksjärvi;SJ;157
+Taavetti;TA;486
+Tahkoluoto;TKO;702
+Taipale;TE;1268
+Talviainen;TV;1270
+Talvivaara;TLV;1323
+Tammisaari;TMS;76
+Tampere asema;TPE;160
+Tampere Järvensivu;JVS;1272
+Tampere tavara;TPET;1273
+Tampere Viinikka;VKA;1274
+Tapanila;TNA;552
+Tapavainola;TAP;1276
+Tavastila;TSL;837
+Tervajoki;TK;294
+Tervola;TRV;361
+Teuva;TUV;271
+Tikkala;TKK;916
+Tikkaperä;TKP;1335
+Tikkurila asema;TKL;18
+Tohmajärvi;TOH;448
+Toijala;TL;150
+Toivala;TOI;412
+Tolsa;TOL;830
+Tommola;TOM;1280
+Torkkeli;TRK;1283
+Tornio asema;TOR;351
+Tornio-Itäinen;TRI;1318
+Tornio-raja;TRR;678
+Tuomarila;TRL;579
+Tuomioja;TJA;336
+Turenki;TU;44
+Turku asema;TKU;130
+Turku satama;TUS;135
+Turku tavara;TKUT;1285
+Tuupovaara;TPV;458
+Tuuri;TUU;283
+Törmä;TÖR;1287
+Törölä;TRÄ;1290
+Uimaharju;UIM;465
+Urjala;UR;148
+Utajärvi;UTJ;376
+Uusikaupunki;UKP;121
+Uusikylä;UKÄ;105
+Vaajakoski;VKO;245
+Vaala;VAA;377
+Vaasa;VS;288
+Vahojärvi;VJR;214
+Vainikkala asema;VNA;492
+Vainikkala tavara;VNAT;1292
+Vainikkala-raja;VNAR;493
+Valimo;VMO;847
+Valkeakoski;VI;153
+Valtimo;VLM;475
+Vammala;VMA;176
+Vanattara;VTR;1295
+Vantaankoski;VKS;839
+Varkaus;VAR;432
+Vartius;VUS;941
+Vartius-raja;VUR;949
+Vasikkahaka;VKH;1300
+Vaskiluoto;VSK;291
+Vehkala;VEH;1337
+Venetmäki;VKI;428
+Vesanka;VN;239
+Vierumäki;VRM;112
+Vihanti;VTI;334
+Vihtari;VIH;438
+Viiala;VIA;155
+Viinijärvi;VNJ;440
+Villähde;VLH;104
+Vilppula;VLP;196
+Vinnilä;VIN;1305
+Virkamies;VMS;1339
+Voltti;VT;302
+Vuohijärvi;VHJ;541
+Vuojoki;VJO;1310
+Vuokatti;VKT;383
+Vuonislahti;VSL;467
+Vuonos;VNS;863
+Vuosaari;VSA;1321
+Ykspihlaja tavara;YKST;315
+Ykspihlaja väliratapiha;YKSV;1326
+Ylistaro;YST;296
+Ylitornio;YTR;789
+Ylivalli;YLV;654
+Ylivieska;YV;320
+Yläkoski;YLK;867
+Ylämylly;YLY;913
+Ylöjärvi;YLÖ;211
+Ypykkävaara;YPY;940
+Äetsä;ÄS;174
+Ähtäri;ÄHT;265
+Ämmänsaari;ÄM;394
+Äänekoski;ÄKI;252
